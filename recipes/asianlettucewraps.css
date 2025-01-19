@@ -1,0 +1,15 @@
+img {
+    width: 1225px;
+    height: 600px;
+    margin: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h1 {
+    font-size: 140px;
+    text-decoration-line: underline;
+    text-decoration-color: maroon;
+}
+body {
+    background-color: bisque;
+}
